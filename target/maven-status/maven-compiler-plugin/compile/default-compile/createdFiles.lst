@@ -1,0 +1,6 @@
+com\scprojectjava\JakartaRestConfiguration.class
+com\scprojectjava\controller\LogoutServlet.class
+com\scprojectjava\Dao\UsuarioDao.class
+com\scprojectjava\DbConfig.class
+com\scprojectjava\controller\LoginServlet.class
+com\scprojectjava\resources\JakartaEE10Resource.class
